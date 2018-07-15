@@ -8,3 +8,14 @@ D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.csproj.Generate
 D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.csproj.CoreCompileInputs.cache
 D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.exe
 D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.pdb
+D:\test\getTest\smartgitTest\smartgitTest\bin\Debug\smartgitTest.exe.config
+D:\test\getTest\smartgitTest\smartgitTest\bin\Debug\smartgitTest.exe
+D:\test\getTest\smartgitTest\smartgitTest\bin\Debug\smartgitTest.pdb
+D:\test\getTest\smartgitTest\smartgitTest\obj\Debug\smartgitTest.csprojResolveAssemblyReference.cache
+D:\test\getTest\smartgitTest\smartgitTest\obj\Debug\smartgitTest.Form1.resources
+D:\test\getTest\smartgitTest\smartgitTest\obj\Debug\smartgitTest.Form2.resources
+D:\test\getTest\smartgitTest\smartgitTest\obj\Debug\smartgitTest.Properties.Resources.resources
+D:\test\getTest\smartgitTest\smartgitTest\obj\Debug\smartgitTest.csproj.GenerateResource.Cache
+D:\test\getTest\smartgitTest\smartgitTest\obj\Debug\smartgitTest.csproj.CoreCompileInputs.cache
+D:\test\getTest\smartgitTest\smartgitTest\obj\Debug\smartgitTest.exe
+D:\test\getTest\smartgitTest\smartgitTest\obj\Debug\smartgitTest.pdb
