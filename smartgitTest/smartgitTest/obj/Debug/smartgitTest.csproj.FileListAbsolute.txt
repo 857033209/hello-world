@@ -1,0 +1,10 @@
+D:\test\C#_test\smartgitTest\smartgitTest\bin\Debug\smartgitTest.exe.config
+D:\test\C#_test\smartgitTest\smartgitTest\bin\Debug\smartgitTest.exe
+D:\test\C#_test\smartgitTest\smartgitTest\bin\Debug\smartgitTest.pdb
+D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.csprojResolveAssemblyReference.cache
+D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.Form1.resources
+D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.Properties.Resources.resources
+D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.csproj.GenerateResource.Cache
+D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.csproj.CoreCompileInputs.cache
+D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.exe
+D:\test\C#_test\smartgitTest\smartgitTest\obj\Debug\smartgitTest.pdb
