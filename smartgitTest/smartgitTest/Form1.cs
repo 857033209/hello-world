@@ -25,7 +25,7 @@ namespace smartgitTest
 
         private void button2_Click(object sender, EventArgs e)
         {
-            label1.Text = test1.changestr();
+            label1.Text = test1.changestr2();
         }
     }
 }
