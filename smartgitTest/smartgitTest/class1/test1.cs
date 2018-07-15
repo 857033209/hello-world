@@ -16,5 +16,9 @@ namespace smartgitTest.class1
         {
             return "ssssss";
         }
+        public static string changestr3()
+        {
+            return "ssssss";
+        }
     }
 }
