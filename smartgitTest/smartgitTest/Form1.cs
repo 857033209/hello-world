@@ -21,11 +21,15 @@ namespace smartgitTest
         private void button1_Click(object sender, EventArgs e)
         {
             label1.Text = "hello world!";
+<<<<<<< HEAD
+            label1.Text = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa!";
+=======
             label1.Text = "hello world1!";
             label1.Text = "1!";
             label1.Text = "hd!";
             label1.Text = "dforld!";
             label1.Text = "hsdfsfssswweggggrld!";
+>>>>>>> master
         }
 
         private void button2_Click(object sender, EventArgs e)
